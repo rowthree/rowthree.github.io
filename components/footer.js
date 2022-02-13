@@ -23,7 +23,7 @@ var currentDate = () => {
 
 const Footer = () => {
   return (
-    <Box align="center" opacity={0.4} fontSize="sm">
+    <Box align="middle" opacity={0.5} fontSize="m">
       row 3️⃣ (6b) | {currentDate()}
     </Box>
   )
